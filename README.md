@@ -1,6 +1,6 @@
 # Land Surface Temperature(LST) Extraction from Landsat 8 Imagery using Google Earth Engine Python API
 
-**The notebook is created to calculate the LST from the Landsat 8 imageries. **
+**The notebook is created to calculate the LST from the Landsat 8 imageries.**
 
 The objective of this notebook is: 
   1. Calculating LST value for an area of interest from Landsat 8 images.
