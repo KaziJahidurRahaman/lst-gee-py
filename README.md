@@ -14,3 +14,9 @@ The objective of this notebook is:
 
 Area of Interes: 
 Kutupalong Rohingya Camp, Cox's Bazar, Bangladesh
+
+##The relevent input and output files can be accessed via the following link: 
+https://drive.google.com/drive/folders/1EjHBxb67rEIHDB-dCW9x23ZV_GqYPnnz?usp=share_link
+
+##The original code can be accessed viathe following link
+https://colab.research.google.com/drive/1xyBlopz_GZk3ygoNz3A6nLriShiTD7o3?usp=sharing
