@@ -10,7 +10,7 @@ The objective of this notebook is:
 
 **Key Packages Used**
 1. earthengine-api 0.1.331
-2. earthengine-api 0.1.331
+2. geemap 0.19.0
 
 Area of Interes: 
 Kutupalong Rohingya Camp, Cox's Bazar, Bangladesh
